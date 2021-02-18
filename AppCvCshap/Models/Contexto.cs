@@ -8,5 +8,6 @@ namespace AppCvCshap.Models
 {
     public class Contexto: DbContext
     {
+       public DbSet<DatosPersonales> datos_personales { get; set; }
     }
 }
