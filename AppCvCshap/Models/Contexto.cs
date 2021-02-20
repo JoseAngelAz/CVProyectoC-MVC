@@ -10,5 +10,6 @@ namespace AppCvCshap.Models
     {
        public DbSet<DatosPersonales> datos_personales { get; set; }
        public DbSet<Educacion> educacion { get; set; }
+       public DbSet<ExperienciaLaboral> experiencia_laboral { get; set; }
     }
 }

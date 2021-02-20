@@ -7,5 +7,7 @@ namespace AppCvCshap.Models
 {
     public class ExperienciaLaboral
     {
+        public string Cargo { get; set; }
+        public string Descripcion { get; set; }
     }
 }
