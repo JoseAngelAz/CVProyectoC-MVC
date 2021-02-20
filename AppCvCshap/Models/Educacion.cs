@@ -7,5 +7,7 @@ namespace AppCvCshap.Models
 {
     public class Educacion
     {
+        public string Lugar { get; set; }
+        public string descripcion { get; set; }
     }
 }
