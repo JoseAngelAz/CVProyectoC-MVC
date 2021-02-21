@@ -23,34 +23,34 @@
 </head>
 @using (Html.BeginForm("CreateOrModifyCV", "Home", FormMethod.Post)) { 
 <body>
-    <div>
+    <div class="mb-5">
         <form action="COLOCAR METODO" method="POST">
             <div class="container">
                 <div class="row">
+                <!--carta que contiene todo el formulario-->
                     <div class="card col-12 shadow-lg bg-light">
                         <div class="card-header">
                             <h2 class="text-center text-info">CV del Usuario</h2>
                         </div>
                         <div class="card-body">
                             <div class="row">
-
-                                <div class="contenedor izUno bg-info col-3">
+                                <!--CONTENEDOR IZQUIERDO-->
+                                <div class="contenedor izUno bg-info col-sm-3">
 
                                     <div class="foto-user mb-3">
-                                        <src="https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+                                        <src ="https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
                                              alt="perfilFoto"
                                              class="border border-warning rounded-circle" />
                                     </div>
-
+                                    <!--contacto-->
                                     <div class="contacto">
-                                        <h4 class="text-gray border-bottom">CONTACTO</h4>
-
+                                        <h4 class="text-gray text-center border-bottom col-12">CONTACTO</h4>
                                         <div class="ncelular container row mb-2">
                                             <span class="material-icons telefonito mr-3">
                                                 stay_current_portrait
                                             </span>
                                             <!--Telefono-->
-                                            <input name="telefono" placeholder="  Telefono" class="form-control p-0 col-9" type="text">
+                                            <input name="telefono" placeholder="  Telefono" class="col-sm-3 form-control p-0 col-9" type="text">
                                         </div>
 
                                         <div class=" row locasión">
@@ -167,8 +167,9 @@
                                         </div>
                                     </div>
                                 </div>
+                                <!--TERMINA CONTENEDOR IZQUIERDO-->
 
-
+                                <!--CONTENEDOR DERECHO-->
                                 <div class="col-9 ">
                                     <div class="contenedor1 border-bottom">
                                         <input name="nombre" type="text" class="form-control mb-3" placeholder="Nombre Completo">
@@ -207,7 +208,7 @@
 
                         </div>
                     </div>
-                </div>
+                </div><!--row-->
             </div>
         </form>
     </div>

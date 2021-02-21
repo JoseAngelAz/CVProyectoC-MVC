@@ -76,3 +76,4 @@ C:\Users\A71A5\source\repos\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.cspr
 C:\Users\A71A5\source\repos\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.csproj.CopyComplete
 C:\Users\A71A5\source\repos\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.dll
 C:\Users\A71A5\source\repos\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.pdb
+C:\Users\A71A5\source\repos\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.csprojAssemblyReference.cache
