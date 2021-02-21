@@ -13,6 +13,10 @@ namespace AppCvCshap.Models
        public DbSet<ExperienciaLaboral> experiencia_laboral { get; set; }
        public DbSet<FormacionTecnica> formacionT { get; set; }
        public DbSet<ReferenciasProfesionales> ReferenciasP { get; set; }
+       public DbSet<ReferenciasProfesionales> ReferenciasProfesionales { get; set; }
 
+
+        //Prueba para CV#
+        public DbSet<CV> CVsharp { get; set; }
     }
 }

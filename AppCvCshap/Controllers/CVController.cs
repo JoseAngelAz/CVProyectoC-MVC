@@ -6,11 +6,16 @@ using System.Web.Mvc;
 
 namespace AppCvCshap.Controllers
 {
-    public class IndexController : Controller
+    public class CVController : Controller
     {
         // GET: Index
         public ActionResult Index()
         {   
+            return View();
+        }
+        //CRUD
+        public ActionResult CrearyModificarCV()
+        {
             return View();
         }
     }
