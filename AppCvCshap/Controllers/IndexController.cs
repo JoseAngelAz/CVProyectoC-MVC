@@ -11,7 +11,7 @@ namespace AppCvCshap.Controllers
         // GET: Index
         public ActionResult Index()
         {   
-            return View("Esto es un mensaje de prueba");
+            return View();
         }
     }
 }
