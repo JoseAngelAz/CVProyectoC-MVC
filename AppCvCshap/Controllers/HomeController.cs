@@ -25,11 +25,11 @@ namespace AppCvCshap.Controllers
             {
                 using (MemoryStream ms = new MemoryStream())
                 {
-                   
+                    return View();
                     
                 }
             }
-
+            return View();
         }
 
         [HttpPost]
