@@ -1,14 +1,17 @@
-﻿@model AppCvCshap.Models.CV
+﻿
+
+@model AppCvCshap.Models.CV
 @{
-    ViewBag.Title = "CrearyModificarCV";
+    ViewBag.Title = "CreateOrModifyCV";
 }
+
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>New Curriculum</title>
+    <title>WORK CV# Curriculum</title>
 
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
@@ -18,6 +21,7 @@
         }
     </style>
 </head>
+@using (Html.BeginForm("CreateOrModifyCV", "Home", FormMethod.Post)) { 
 <body>
     <div>
         <form action="COLOCAR METODO" method="POST">
@@ -206,7 +210,10 @@
                 </div>
             </div>
         </form>
-   </div>
+    </div>
 </body>
+}
 </html>
+
+
 

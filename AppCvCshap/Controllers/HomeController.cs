@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppCvCshap.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,6 +9,42 @@ namespace AppCvCshap.Controllers
 {
     public class HomeController : Controller
     {
+        string msg;
+        //CRUD DESDE EL HOME
+        public ActionResult CreateOrModifyCV()
+        {
+            CV cv = new CV();
+            return View(cv);
+        }
+
+        [HttpPost]
+        public ActionResult CreateOrModifyCV(CV modelcv)
+        {
+            if (ModelState.IsValid)
+            {
+                using (var context = new Contexto())
+                {
+                    msg = "Correcto";
+                    context.CVsharp.Add(modelcv);
+                    context.SaveChanges();
+                }
+                return View(msg);
+            }
+            else
+            {
+                return View(modelcv);
+            }
+        }
+        //Conslultar datos
+        public ActionResult ShowCV()
+        {
+            using (var context = new Contexto())
+            {
+                var data = context.CVsharp.ToList();
+                ViewBag.Datos = data;
+                return View(data);
+            }
+        }
         // GET: Home
         public ActionResult Index()
         {

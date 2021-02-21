@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <title>@ViewBag.Title - CV# APP</title>
     <link href="~/Content/Bootstrap4.css" rel="stylesheet" type="text/css" />
     <!-- Custom styles for this template -->
     <link href="~/Content/modern-business.css" rel="stylesheet" type="text/css" />
@@ -20,7 +20,7 @@
     <nav class="navbar fixed-top navbar-expand-lg bg-dark  fixed-top">
         <div class="container">
             <a class="navbar-brand" href="index.html">
-                @Html.ActionLink("CV#-APP", "Index", "Index", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("CV#-APP", "CrearyModificarCV", "Home", new { area = "" }, new { @class = "navbar-brand" })
             </a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -34,7 +34,7 @@
                         <a class="nav-link" href="services.html">Services</a>
                     </li>
                     <li class="nav-item">
-                        @Html.ActionLink("Crear CV#", "CrearyModificarCV", "Index")
+                        @Html.ActionLink("Crear CV#", "CrearyModificarCV", "Home")
                     </li>
                 </ul>
             </div>
@@ -43,7 +43,9 @@
 
     <!-- Footer -->
     <div class="container body-content">
+        <div class="container-fluid">
         @RenderBody()
+        </div>
         <hr />
         <footer class="py-5 bg-dark">
             <p class="text-light m-0 text-center">&copy; @DateTime.Now.Year - My ASP.NET Application</p>
