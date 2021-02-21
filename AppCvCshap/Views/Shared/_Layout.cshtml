@@ -17,7 +17,7 @@
 </head>
 <body>
     <!-- Navigation PLANTILLA-->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-$purple-800 fixed-top">
+    <nav class="navbar fixed-top navbar-expand-lg bg-dark  fixed-top">
         <div class="container">
             <a class="navbar-brand" href="index.html">
                 @Html.ActionLink("CV#-APP", "Index", "Index", new { area = "" }, new { @class = "navbar-brand" })
@@ -34,23 +34,21 @@
                         <a class="nav-link" href="services.html">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">
-                            @Html.ActionLink("Crear CV#", "CrearyModificarCV", "Alumno")
-                        </a>
+                        @Html.ActionLink("Crear CV#", "CrearyModificarCV", "Index")
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
+    <!-- Footer -->
     <div class="container body-content">
         @RenderBody()
         <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        <footer class="py-5 bg-dark">
+            <p class="text-light m-0 text-center">&copy; @DateTime.Now.Year - My ASP.NET Application</p>
         </footer>
     </div>
-
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
