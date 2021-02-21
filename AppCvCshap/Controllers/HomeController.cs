@@ -1,6 +1,7 @@
 ﻿using AppCvCshap.Models;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -15,6 +16,20 @@ namespace AppCvCshap.Controllers
         {
             CV cv = new CV();
             return View(cv);
+        }
+        
+        //GUARDAR IMAGEN
+        public ActionResult ImageUpload(HttpPostedFileBase fotito)
+        {
+            if (fotito != null)
+            {
+                using (MemoryStream ms = new MemoryStream())
+                {
+                   
+                    
+                }
+            }
+
         }
 
         [HttpPost]
@@ -51,8 +66,8 @@ namespace AppCvCshap.Controllers
             return View();
         }
 
-        // GET: Home/Details/5
-        public ActionResult Details(int id)
+        // GET: About
+        public ActionResult About()
         {
             return View();
         }

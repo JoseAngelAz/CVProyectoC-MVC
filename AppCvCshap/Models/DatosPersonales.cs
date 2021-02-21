@@ -17,13 +17,15 @@ namespace AppCvCshap.Models
         public int edad { get; set; }
         [Required(ErrorMessage = "Por favor ingrese un email")]
         public string email { get; set; }
-        [Required(ErrorMessage = "Por favor ingrese un telefono")]
+        [Required(ErrorMessage = "Por favor ingrese un telífono")]
         public int telefono { get; set; }
-        [Required(ErrorMessage = "Por favor ingrese una direccion")]
+        [Required(ErrorMessage = "Por favor ingrese una dirección")]
         public string direccion { get; set; }
         [Required(ErrorMessage = "Por favor ingrese su DUI")]
         public int dui { get; set; }
         [Required(ErrorMessage = "Por favor ingrese su NIT")]
         public int nit { get; set; }
+        [Required(ErrorMessage = "Por favor ingrese su Fotografía")]
+        public byte[] FotoPerfil { get; set; }
     }
 }

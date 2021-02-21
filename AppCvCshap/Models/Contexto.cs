@@ -18,5 +18,7 @@ namespace AppCvCshap.Models
 
         //Prueba para CV#
         public DbSet<CV> CVsharp { get; set; }
+        
+        
     }
 }
