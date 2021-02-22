@@ -12,10 +12,14 @@ namespace AppCvCshap.Controllers
     {
         string msg;
         //CRUD DESDE EL HOME
-        public ActionResult CreateOrModifyCV()
+        public ActionResult CreateOrModifyCV(int? id)
         {
-            CV cv = new CV();
-            return View(cv);
+            using (var context = new Contexto())
+            {
+                var model = context.datos_personales.Where(c => c.Id == id);
+                      return View(model);
+
+            }
         }
         
         //GUARDAR IMAGEN
@@ -23,8 +27,9 @@ namespace AppCvCshap.Controllers
         {
             if (fotito != null)
             {
-                using (MemoryStream ms = new MemoryStream())
+                using (var context = new Contexto())
                 {
+                   // var model = context.datos_personales.Where(c=> c.Id == fotito)
                     return View();
                     
                 }
