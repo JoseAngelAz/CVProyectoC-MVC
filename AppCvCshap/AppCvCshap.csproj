@@ -95,17 +95,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Bootstrap4.css" />
+    <Content Include="Content\CVStyle.css" />
+    <Content Include="Content\modern-business.css" />
+    <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
+    <Content Include="JavaScript\jquery.min.js" />
+    <Content Include="Recursos\cv_miniatura.PNG" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\CompetenciasPersonales.cs" />
     <Compile Include="Models\CompetenciasProfesionales.cs" />
     <Compile Include="Models\Contexto.cs" />
+    <Compile Include="Models\CV.cs" />
     <Compile Include="Models\DatosPersonales.cs" />
     <Compile Include="Models\Educacion.cs" />
     <Compile Include="Models\ExperienciaLaboral.cs" />
@@ -116,7 +124,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
+    <Content Include="JavaScript\bootstrap.bundle.min.js" />
     <None Include="packages.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\CreateOrModifyCV.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -126,7 +140,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
