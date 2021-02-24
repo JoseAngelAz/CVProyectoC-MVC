@@ -16,5 +16,6 @@ namespace AppCvCshap.Models
         public string ref_prof_dos { get; set; }
         [Required(ErrorMessage = "Por favor ingrese el telefono de la referencia dos")]
         public int telefono_dos { get; set; }
+       
     }
 }

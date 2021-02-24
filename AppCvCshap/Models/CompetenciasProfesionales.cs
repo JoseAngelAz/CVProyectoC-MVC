@@ -9,6 +9,7 @@ namespace AppCvCshap.Models
     public class CompetenciasProfesionales
     {
         [Required(ErrorMessage = "Por favor ingrese una competencia profesional")]
-        public string competenciaProf { get; set; }
+        public string competenciaProfesionales { get; set; }
+        
     }
 }

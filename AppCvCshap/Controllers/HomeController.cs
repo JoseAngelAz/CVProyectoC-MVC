@@ -14,11 +14,18 @@ namespace AppCvCshap.Controllers
         //CRUD DESDE EL HOME
         public ActionResult CreateOrModifyCV(int? id)
         {
-            using (var context = new Contexto())
+            if (id > 0)
             {
-                var model = context.datos_personales.Where(c => c.Id == id);
-                      return View(model);
-
+                using (var context = new Contexto())
+                {
+                    var model = context.CVsharp.Where(c => c.IdCv == id);
+                    return View(model);
+                }
+            }
+            else
+            {
+                CV cv = new CV();
+                return View(cv);
             }
         }
         

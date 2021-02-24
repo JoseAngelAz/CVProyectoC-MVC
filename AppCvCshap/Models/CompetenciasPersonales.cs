@@ -10,5 +10,6 @@ namespace AppCvCshap.Models
     {
         [Required(ErrorMessage = "Por favor ingrese una competencia personal")]
         public string competencia { get; set; }
+        
     }
 }

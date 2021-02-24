@@ -12,5 +12,6 @@ namespace AppCvCshap.Models
         public string Lugar { get; set; }
         [Required(ErrorMessage = "Por favor ingrese la descripcion")]
         public string descripcion { get; set; }
+      
     }
 }

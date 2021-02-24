@@ -8,7 +8,7 @@ namespace AppCvCshap.Models
 {
     public class DatosPersonales
     {
-        public int Id { get; set; }
+        public int IdDatosPersonales { get; set; }
         [Required(ErrorMessage = "Por favor ingrese un nombre")]
         public string nombre { get; set; }
         [Required(ErrorMessage = "Por favor ingrese un apellido")]
