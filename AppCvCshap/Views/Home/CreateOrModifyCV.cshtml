@@ -82,24 +82,26 @@
                                             <!--Red Uno-->
                                             <div class="row">
                                                 <span class="material-icons in col-1">public</span>
-                                                <input name="red_uno" class="col-7 ml-4 mt-2 form-control" type="text" placeholder="Red social uno" />
-                                                @Html.TextBoxFor(x => x.edad, new { placeholder = "Edad", @class = "form-control col-7 ml-4" })
-                                                @Html.ValidationMessageFor(x => x.edad, null, new { @class = "text-danger" })
+                                                @Html.TextBoxFor(x => x.red_1, new { placeholder = "Red Social", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.red_1, null, new { @class = "text-danger" })
                                             </div>
                                             <!--Red dos-->
                                             <div class="row">
                                                 <span class="col-1 material-icons social">emoji_people</span>
-                                                <input name="red_dos" class="col-7 ml-4 mt-2 form-control" type="text" placeholder="Red social dos" />
+                                                @Html.TextBoxFor(x => x.red_2, new { placeholder = "Red Social", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.red_2, null, new { @class = "text-danger" })
                                             </div>
                                             <!--Red Tres -->
                                             <div class="row">
                                                 <span class="col-1 material-icons tweet">mms</span>
-                                                <input name="red_tres" class="col-7 ml-4 mt-2 form-control" type="text" placeholder="Red social Tres" />
+                                                @Html.TextBoxFor(x => x.red_3, new { placeholder = "Red Social", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.red_3, null, new { @class = "text-danger" })
                                             </div>
                                             <!--Red Cuatro -->
                                             <div class="row">
                                                 <span class="material-icons insta col-1">center_focus_weak</span>
-                                                <input name="red_cuatro" class="col-7 mb-3 ml-4 mt-2 form-control" type="text" placeholder="Red social Cuatro" />
+                                                @Html.TextBoxFor(x => x.red_4, new { placeholder = "Red Social", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.red_4, null, new { @class = "text-danger" })
                                             </div>
                                         </div>
 
