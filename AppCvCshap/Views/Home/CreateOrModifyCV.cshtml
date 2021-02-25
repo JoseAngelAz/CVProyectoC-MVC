@@ -12,8 +12,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WORK CV# Curriculum</title>
-
-
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
     <style>
         .telefonito, .lugar, .mail, .enlace, .in, .social, .tweet, .insta, .punto {
@@ -37,7 +35,7 @@
                             <div class="card-body">
                                 <div class="row">
                                     <!--CONTENEDOR IZQUIERDO-->
-                                    <div class="contenedor izUno bg-info col-sm-3">
+                                    <div class="contenedor izUno bg-info col-sm-3 rounded mb-2">
                                         <!--FOTO DE PERFIL-->
                                         <div class="foto-user mb-3">
                                             <src ="https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
@@ -46,13 +44,13 @@
                                         </div>
                                         <!--contacto-->
                                         <div class="contacto">
-                                            <h4 class="text-gray text-center border-bottom col-12">CONTACTO</h4>
-                                            <div class="ncelular container row mb-2">
+                                            <h4 class="text-gray text-center border-bottom">CONTACTO</h4>
+                                            <div class="ncelular row mb-2">
                                                 <span class="material-icons telefonito mr-3">
                                                     stay_current_portrait
                                                 </span>
                                                 <!--Telefono-->
-                                                @Html.TextBoxFor(x => x.telefono, new { placeholder = "Telefono", @class = "form-control p-0 col-9" })
+                                                @Html.TextBoxFor(x => x.telefono, new { placeholder = "Telefono", @class = "form-control  col-9" })
                                                 @Html.ValidationMessageFor(x => x.telefono, null, new { @class = "text-danger" })
                                             </div>
 
@@ -68,12 +66,14 @@
                                             <div class="row">
                                                 <!--Email-->
                                                 <span class="col-1 material-icons mail">email</span>
-                                                <input name="email" class="col-7 ml-4 mt-2 form-control" type="text" placeholder="Email" />
+                                                @Html.TextBoxFor(x => x.email, new { placeholder = "Email", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.email, null, new { @class = "text-danger" })
                                             </div>
-                                            <!--Pagina Web-->
+                                            <!--Edad-->
                                             <div class="row">
-                                                <span class="col-1 material-icons enlace">link</span>
-                                                <input name="pag_web" class="col-7 mb-3 ml-4 mt-2 form-control" type="text" placeholder="pagina web" />
+                                                <span class="col-1 material-icons enlace">hourglass_empty</span>
+                                                @Html.TextBoxFor(x => x.edad, new { placeholder = "Edad", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.edad, null, new { @class = "text-danger" })
                                             </div>
                                         </div>
 
@@ -83,6 +83,8 @@
                                             <div class="row">
                                                 <span class="material-icons in col-1">public</span>
                                                 <input name="red_uno" class="col-7 ml-4 mt-2 form-control" type="text" placeholder="Red social uno" />
+                                                @Html.TextBoxFor(x => x.edad, new { placeholder = "Edad", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.edad, null, new { @class = "text-danger" })
                                             </div>
                                             <!--Red dos-->
                                             <div class="row">

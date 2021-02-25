@@ -28,6 +28,8 @@ namespace AppCvCshap.Models
         [Required(ErrorMessage = "Por favor ingrese su NIT")]
         public int nit { get; set; }
         [Required(ErrorMessage = "Por favor ingrese su Fotografía")]
+        public string PaginaWeb { get; set; }
+
         //fotografia de perfil
         public byte[] FotoPerfil { get; set; }
         //educacion
