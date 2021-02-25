@@ -8,7 +8,7 @@ namespace AppCvCshap.Models
 {
     public class CV
     {
-        public int IdCv { get; set; }
+        public int idCv { get; set; }
         //datos personales
         
         [Required(ErrorMessage = "Por favor ingrese un nombre")]
@@ -16,27 +16,32 @@ namespace AppCvCshap.Models
         [Required(ErrorMessage = "Por favor ingrese un apellido")]
         public string apellido { get; set; }
         [Required(ErrorMessage = "Por favor ingrese su edad")]
-        public int edad { get; set; }
+        public string edad { get; set; }
         [Required(ErrorMessage = "Por favor ingrese un email")]
         public string email { get; set; }
         [Required(ErrorMessage = "Por favor ingrese un telífono")]
-        public int telefono { get; set; }
+        public string telefono { get; set; }
         [Required(ErrorMessage = "Por favor ingrese una dirección")]
         public string direccion { get; set; }
         [Required(ErrorMessage = "Por favor ingrese su DUI")]
-        public int dui { get; set; }
+        public string dui { get; set; }
         [Required(ErrorMessage = "Por favor ingrese su NIT")]
-        public int nit { get; set; }
+        public string nit { get; set; }
         [Required(ErrorMessage = "Por favor ingrese su Fotografía")]
         public string PaginaWeb { get; set; }
 
         //fotografia de perfil
-        public byte[] FotoPerfil { get; set; }
+       // public byte[] FotoPerfil { get; set; }
+        //cursos
+        [Required(ErrorMessage = "Por favor ingrese un Curso")]
+        public string Curso { get; set; }
+        [Required(ErrorMessage = "Por favor ingrese una descripción del curso")]
+        public string DescripcionCurso { get; set; }
         //educacion
         [Required(ErrorMessage = "Por favor ingrese un lugar de estudio")]
-        public string Lugar { get; set; }
+        public string LugarEducacion { get; set; }
         [Required(ErrorMessage = "Por favor ingrese la descripcion")]
-        public string descripcion { get; set; }
+        public string descripcion_educacion { get; set; }
         //competencias personales
         [Required(ErrorMessage = "Por favor ingrese una competencia personal")]
         public string competencia { get; set; }
@@ -45,31 +50,31 @@ namespace AppCvCshap.Models
         public string competenciasProfesionales { get; set; }
         //experiencia laboral
         [Required(ErrorMessage = "Por favor ingrese su cargo")]
-        public string Cargo { get; set; }
+        public string Cargo_exp { get; set; }
         [Required(ErrorMessage = "Por favor ingrese la descripcion del cargo")]
-        public string Descripcion { get; set; }
+        public string Descripcion_exp { get; set; }
         //formacion tecnica
         [Required(ErrorMessage = "Por favor ingrese el lugar donde se formo")]
-        public string FormacionT { get; set; }
+        public string FormacionTecnica { get; set; }
         [Required(ErrorMessage = "Por favor ingrese la descripcion")]
-        public string DescripcionT { get; set; }
+        public string DescripcionFT { get; set; }
         //referencias personales
         [Required(ErrorMessage = "Por favor ingrese la referencia uno")]
-        public string ref_uno { get; set; }
+        public string ref_PERSONAL_UNO { get; set; }
         [Required(ErrorMessage = "Por favor ingrese el telefono de la referencia uno")]
-        public int telefono_uno_personal { get; set; }
+        public string telefono_ref_PERSONAL_uno { get; set; }
         [Required(ErrorMessage = "Por favor ingrese la referencia dos")]
-        public string ref_dos_personal { get; set; }
+        public string ref_PERSONAL_DOS { get; set; }
         [Required(ErrorMessage = "Por favor ingrese el telefono de la referencia dos")]
-        public int telefono_dos { get; set; }
+        public string telefono_ref_PERSONAL_dos { get; set; }
         //referencias profesionales
         [Required(ErrorMessage = "Por favor ingrese la referencia profesional uno")]
         public string ref_prof_uno { get; set; }
         [Required(ErrorMessage = "Por favor ingrese el telefono de la referencia uno")]
-        public int telefono_uno_profesional { get; set; }
+        public string telefono_uno_profesional { get; set; }
         [Required(ErrorMessage = "Por favor ingrese la referencia profesional dos")]
         public string ref_prof_dos { get; set; }
         [Required(ErrorMessage = "Por favor ingrese el telefono de la referencia dos")]
-        public int telefono_dos_profesional { get; set; }
+        public string telefono_dos_profesional { get; set; }
     }
 }

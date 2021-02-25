@@ -47,7 +47,7 @@
                                             <h4 class="text-gray text-center border-bottom">CONTACTO</h4>
                                             <div class="ncelular row mb-2">
                                                 <span class="material-icons telefonito mr-3">
-                                                    stay_current_portrait
+                                                    contact_phone
                                                 </span>
                                                 <!--Telefono-->
                                                 @Html.TextBoxFor(x => x.telefono, new { placeholder = "Telefono", @class = "form-control  col-9" })
@@ -79,97 +79,77 @@
 
                                         <div class="redes">
                                             <h4 class="text-gray border-bottom">REDES SOCIALES</h4>
-                                            <!--Red Uno-->
+                                            <!--DUI-->
+                                            <div class="row">
+                                                <span class="material-icons in col-1">fingerprint</span>
+                                                @Html.TextBoxFor(x => x.dui, new { placeholder = "DUI", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.dui, null, new { @class = "text-danger" })
+                                            </div>
+                                            <!--NIT-->
+                                            <div class="row">
+                                                <span class="material-icons in col-1">credit_card</span>
+                                                @Html.TextBoxFor(x => x.nit, new { placeholder = "NIT", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.nit, null, new { @class = "text-danger" })
+                                            </div>
+                                            <!--PAGINA WEB-->
                                             <div class="row">
                                                 <span class="material-icons in col-1">public</span>
-                                                <input name="red_uno" class="col-7 ml-4 mt-2 form-control" type="text" placeholder="Red social uno" />
-                                                @Html.TextBoxFor(x => x.edad, new { placeholder = "Edad", @class = "form-control col-7 ml-4" })
-                                                @Html.ValidationMessageFor(x => x.edad, null, new { @class = "text-danger" })
-                                            </div>
-                                            <!--Red dos-->
-                                            <div class="row">
-                                                <span class="col-1 material-icons social">emoji_people</span>
-                                                <input name="red_dos" class="col-7 ml-4 mt-2 form-control" type="text" placeholder="Red social dos" />
-                                            </div>
-                                            <!--Red Tres -->
-                                            <div class="row">
-                                                <span class="col-1 material-icons tweet">mms</span>
-                                                <input name="red_tres" class="col-7 ml-4 mt-2 form-control" type="text" placeholder="Red social Tres" />
-                                            </div>
-                                            <!--Red Cuatro -->
-                                            <div class="row">
-                                                <span class="material-icons insta col-1">center_focus_weak</span>
-                                                <input name="red_cuatro" class="col-7 mb-3 ml-4 mt-2 form-control" type="text" placeholder="Red social Cuatro" />
+                                                @Html.TextBoxFor(x => x.PaginaWeb, new { placeholder = "Pagina Web", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.PaginaWeb, null, new { @class = "text-danger" })
                                             </div>
                                         </div>
 
                                         <div class="habilidades">
-                                            <h4 class="text-gray border-bottom">HABILIDADES</h4>
+                                            <h4 class="text-gray border-bottom">COMPETENCIAS</h4>
+                                            <!--COMPETENCIA PERSONAL-->
                                             <div class="row">
-                                                <h6 class="text-white col-5">JavaScript</h6>
-                                                <div class=" col-7">
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <i class="material-icons orange600 punto">fiber_manual_record</i>
-                                                </div>
+                                                <span class="material-icons in col-1">accessibility_new</span>
+                                                @Html.TextAreaFor(x => x.competencia, new { placeholder = "Competencia personal", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.competencia, null, new { @class = "text-danger" })
                                             </div>
+                                            
+                                            <!--ESPACIO-->
                                             <div class="row">
-                                                <h6 class="text-white col-5">HTML</h6>
-                                                <div class=" col-7">
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <i class="material-icons orange600 punto">fiber_manual_record</i>
-                                                </div>
+                                                
+                                              
                                             </div>
+                                            <!--COMPETENCIA PROFESIONAL-->
                                             <div class="row">
-                                                <h6 class="text-white col-5">Figma</h6>
-                                                <div class=" col-7">
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <i class="material-icons orange600 punto">fiber_manual_record</i>
-                                                </div>
-                                            </div>
-                                            <div class="row">
-                                                <h6 class="text-white col-5">Ilustrator</h6>
-                                                <div class=" col-7">
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <i class="material-icons orange600 punto">fiber_manual_record</i>
-                                                </div>
-                                            </div>
-                                            <div class="row mb-3">
-                                                <h6 class="text-white col-5">CSS</h6>
-                                                <div class=" col-7">
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <span class="material-icons punto">fiber_manual_record</span>
-                                                    <i class="material-icons orange600 punto">fiber_manual_record</i>
-                                                </div>
+                                                <span class="material-icons in col-1">card_travel</span>
+                                                @Html.TextAreaFor(x => x.competenciasProfesionales, new { placeholder = "Competencia Profesional", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.competenciasProfesionales, null, new { @class = "text-danger" })
                                             </div>
                                         </div>
 
                                         <div class="referencias">
                                             <h4 class="border-bottom">REFERENCIAS</h4>
+                                            
+                                            <h4 class="border-bottom">Personales <span class="material-icons in col-1">face</span></h4>
                                             <!--Ref Uno -->
                                             <div class="row">
-                                                <input name="nombre_ref_uno" class="form-control col-9 ml-4 mt-2 form-control" type="text" placeholder="Nombre Ref Uno" />
-                                                <input name="numero_ref_uno" class="col-9 ml-4 mt-2 form-control" type="text" placeholder="Numero ref uno" />
-                                                <input name="email_ref_uno" class="form-control col-9 ml-4 mt-2 form-control" type="email" placeholder="Email Ref Uno" />
+                                                @Html.TextBoxFor(x => x.ref_PERSONAL_UNO, new { placeholder = "Nombre Ref Personal 1", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.ref_PERSONAL_UNO, null, new { @class = "text-danger" })
+                                                @Html.TextBoxFor(x => x.telefono_ref_PERSONAL_uno, new { placeholder = "NIT", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.telefono_ref_PERSONAL_uno, null, new { @class = "text-danger" })
+
+                                                @Html.TextBoxFor(x => x.ref_PERSONAL_DOS, new { placeholder = "Nombre Ref Personal 2", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.ref_PERSONAL_DOS, null, new { @class = "text-danger" })
+                                                @Html.TextBoxFor(x => x.telefono_ref_PERSONAL_dos, new { placeholder = "NIT", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.telefono_ref_PERSONAL_dos, null, new { @class = "text-danger" })
                                             </div>
+                                            
+                                            <h4 class="border-bottom mt-1">Profesionales <span class="material-icons in col-1 ">account_balance</span></h4>
                                             <!--Ref Dos -->
                                             <div class="row">
-                                                <input name="nombre_ref_dos" class="form-control col-9 ml-4 mt-2 form-control" type="text" placeholder="Nombre Ref Dos" />
-                                                <input name="numero_ref_dos" class="col-9 ml-4 mt-2 form-control" type="text" placeholder="Numero ref Dos" />
-                                                <input name="email_ref_dos" class="form-control col-9 mb-4 ml-4 mt-2 form-control" type="email" placeholder="Email Ref Dos" />
+                                                @Html.TextBoxFor(x => x.ref_PERSONAL_UNO, new { placeholder = "Nombre Ref Profesional 1", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.ref_PERSONAL_UNO, null, new { @class = "text-danger" })
+                                                @Html.TextBoxFor(x => x.telefono_ref_PERSONAL_uno, new { placeholder = "NIT", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.telefono_ref_PERSONAL_uno, null, new { @class = "text-danger" })
+
+                                                @Html.TextBoxFor(x => x.ref_PERSONAL_DOS, new { placeholder = "Nombre Ref Profesional 2", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.ref_PERSONAL_DOS, null, new { @class = "text-danger" })
+                                                @Html.TextBoxFor(x => x.telefono_ref_PERSONAL_dos, new { placeholder = "NIT", @class = "form-control col-7 ml-4 mb-2" })
+                                                @Html.ValidationMessageFor(x => x.telefono_ref_PERSONAL_dos, null, new { @class = "text-danger" })
                                             </div>
                                         </div>
                                     </div>
@@ -177,35 +157,48 @@
                                     <!--CONTENEDOR DERECHO-->
                                     <div class="col-9 ">
                                         <div class="contenedor1 border-bottom">
-                                            <input name="nombre" type="text" class="form-control mb-3" placeholder="Nombre Completo">
-                                            <input name="vocacion" type="text" class="form-control mb-3" placeholder="Vocación">
-                                            <textarea name="voca_descript" class="form-control mb-3" placeholder="Desciba su vocación"></textarea>
+                                            <!--nombres-->
+                                            @Html.TextBoxFor(x => x.nombre, new { placeholder = "Nombres", @class = "form-control col-7 ml-4 mb-3" })
+                                            @Html.ValidationMessageFor(x => x.nombre, null, new { @class = "text-danger" })
+                                            <!--apellidos-->
+                                            @Html.TextBoxFor(x => x.apellido, new { placeholder = "Apellidos", @class = "form-control col-7 ml-4 mb-3" })
+                                            @Html.ValidationMessageFor(x => x.apellido, null, new { @class = "text-danger" })
                                         </div>
 
                                         <div class="exp-laboral contenedor2 border-bottom">
                                             <h3>EXPERIENCIA LABORAL</h3>
                                             <div class="">
-                                                <input name="exp_laboral_nombre" type="text" class="form-control mb-3" placeholder="Area o cargo">
-                                                <textarea class="form-control mb-3" name="exp_laboral_descript" placeholder="Describe que hacías"></textarea>
+                                                <!--Exp Laboral-->
+                                                @Html.TextBoxFor(x => x.Cargo_exp, new { placeholder = "Experiencia Laboral", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.Cargo_exp, null, new { @class = "text-danger" })
+
+                                                @Html.TextAreaFor(x => x.Descripcion_exp, new { placeholder = "Descipción", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.Descripcion_exp, null, new { @class = "text-danger" })
                                             </div>
                                         </div>
 
                                         <div class="educacion contenedor3 border-bottom">
                                             <h3>EDUCACIÓN</h3>
                                             <div class="">
-                                                <input name="educacion_nombre" type="text" class="form-control mb-3" placeholder="Que Estudio?">
-                                                <input name="lugar_educacion" type="text" class="form-control mb-3" placeholder="Donde Estudió?">
+                                                <!--EDUACICON-->
+                                                @Html.TextBoxFor(x => x.LugarEducacion, new { placeholder = "Donde estudió?", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.LugarEducacion, null, new { @class = "text-danger" })
+
+                                                @Html.TextAreaFor(x => x.descripcion_educacion, new { placeholder = "Descipción", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.descripcion_educacion, null, new { @class = "text-danger" })
                                             </div>
                                         </div>
 
                                         <div class="cursos contenedor4 border-bottom">
                                             <h4 class="">CURSOS</h4>
                                             <p class="text-muted">
-                                                <input name="curso_name" type="text" class="form-control mb-3" placeholder="Nombre del curso">
-                                                <textarea class="form-control mb-3" name="curso_descript" placeholder="Describe que aprendiste"></textarea>
+                                                @Html.TextAreaFor(x => x.Curso, new { placeholder = "Curso", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.Curso, null, new { @class = "text-danger" })
+                                                @Html.TextAreaFor(x => x.DescripcionCurso, new { placeholder = "Descipción del curso", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.DescripcionCurso, null, new { @class = "text-danger" })
                                             </p>
                                         </div>
-                                        <button type="submit" class="btn btn-success btn-block">Guardar Cv</button>
+                                        <input type="submit" class="btn btn-success btn-block" value="Guardar Cv">
                                     </div>
                                 </div>
                             </div>
