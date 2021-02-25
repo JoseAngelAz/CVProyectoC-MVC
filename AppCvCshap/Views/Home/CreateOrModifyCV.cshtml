@@ -1,0 +1,218 @@
+﻿
+
+@model AppCvCshap.Models.CV
+@{
+    ViewBag.Title = "CreateOrModifyCV";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WORK CV# Curriculum</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <style>
+        .telefonito, .lugar, .mail, .enlace, .in, .social, .tweet, .insta, .punto {
+            color: white;
+        }
+    </style>
+</head>
+@using (Html.BeginForm("CreateOrModifyCV", "Home", FormMethod.Post))
+{
+ 
+    <body>
+        <div class="mb-5">
+            <form action="COLOCAR METODO" method="POST">
+                <div class="container">
+                    <div class="row">
+                        <!--carta que contiene todo el formulario-->
+                        <div class="card col-12 shadow-lg bg-light mt-5">
+                            <div class="card-header">
+                                <h2 class="text-center text-info"><strong class="wcv rounded">CV#</strong> del Usuario</h2>
+                            </div>
+                            <div class="card-body">
+                                <div class="row">
+                                    <!--CONTENEDOR IZQUIERDO-->
+                                    <div class="contenedor izUno bg-info col-sm-3 rounded mb-2">
+                                        <!--FOTO DE PERFIL-->
+                                        <div class="foto-user mb-3">
+                                            <src ="https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+                                                 alt="perfilFoto"
+                                                 class="border border-warning rounded-circle" />
+                                        </div>
+                                        <!--contacto-->
+                                        <div class="contacto">
+                                            <h4 class="text-gray text-center border-bottom">CONTACTO</h4>
+                                            <div class="ncelular row mb-2">
+                                                <span class="material-icons telefonito mr-3">
+                                                    contact_phone
+                                                </span>
+                                                <!--Telefono-->
+                                                @Html.TextBoxFor(x => x.telefono, new { placeholder = "Telefono", @class = "form-control  col-9" })
+                                                @Html.ValidationMessageFor(x => x.telefono, null, new { @class = "text-danger" })
+                                            </div>
+
+                                            <div class=" row locasión">
+                                                <span class="material-icons lugar col-1">
+                                                    location_on
+                                                </span>
+                                                <!--Dirección-->
+                                                @Html.TextBoxFor(x => x.direccion, new { placeholder = "Dirección", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.direccion, null, new { @class = "text-danger" })
+                                            </div>
+
+                                            <div class="row">
+                                                <!--Email-->
+                                                <span class="col-1 material-icons mail">email</span>
+                                                @Html.TextBoxFor(x => x.email, new { placeholder = "Email", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.email, null, new { @class = "text-danger" })
+                                            </div>
+                                            <!--Edad-->
+                                            <div class="row">
+                                                <span class="col-1 material-icons enlace">hourglass_empty</span>
+                                                @Html.TextBoxFor(x => x.edad, new { placeholder = "Edad", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.edad, null, new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+
+                                        <div class="redes">
+                                            <h4 class="text-gray border-bottom">REDES SOCIALES</h4>
+                                            <!--DUI-->
+                                            <div class="row">
+                                                <span class="material-icons in col-1">fingerprint</span>
+                                                @Html.TextBoxFor(x => x.dui, new { placeholder = "DUI", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.dui, null, new { @class = "text-danger" })
+                                            </div>
+                                            <!--NIT-->
+                                            <div class="row">
+                                                <span class="material-icons in col-1">credit_card</span>
+                                                @Html.TextBoxFor(x => x.nit, new { placeholder = "NIT", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.nit, null, new { @class = "text-danger" })
+                                            </div>
+                                            <!--PAGINA WEB-->
+                                            <div class="row">
+                                                <span class="material-icons in col-1">public</span>
+                                                @Html.TextBoxFor(x => x.PaginaWeb, new { placeholder = "Pagina Web", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.PaginaWeb, null, new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+
+                                        <div class="habilidades">
+                                            <h4 class="text-gray border-bottom">COMPETENCIAS</h4>
+                                            <!--COMPETENCIA PERSONAL-->
+                                            <div class="row">
+                                                <span class="material-icons in col-1">accessibility_new</span>
+                                                @Html.TextAreaFor(x => x.competencia, new { placeholder = "Competencia personal", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.competencia, null, new { @class = "text-danger" })
+                                            </div>
+                                            
+                                            <!--ESPACIO-->
+                                            <div class="row">
+                                                
+                                              
+                                            </div>
+                                            <!--COMPETENCIA PROFESIONAL-->
+                                            <div class="row">
+                                                <span class="material-icons in col-1">card_travel</span>
+                                                @Html.TextAreaFor(x => x.competenciasProfesionales, new { placeholder = "Competencia Profesional", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.competenciasProfesionales, null, new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+
+                                        <div class="referencias">
+                                            <h4 class="border-bottom">REFERENCIAS</h4>
+                                            
+                                            <h4 class="border-bottom">Personales <span class="material-icons in col-1">face</span></h4>
+                                            <!--Ref Uno -->
+                                            <div class="row">
+                                                @Html.TextBoxFor(x => x.ref_PERSONAL_UNO, new { placeholder = "Nombre Ref Personal 1", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.ref_PERSONAL_UNO, null, new { @class = "text-danger" })
+                                                @Html.TextBoxFor(x => x.telefono_ref_PERSONAL_uno, new { placeholder = "NIT", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.telefono_ref_PERSONAL_uno, null, new { @class = "text-danger" })
+
+                                                @Html.TextBoxFor(x => x.ref_PERSONAL_DOS, new { placeholder = "Nombre Ref Personal 2", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.ref_PERSONAL_DOS, null, new { @class = "text-danger" })
+                                                @Html.TextBoxFor(x => x.telefono_ref_PERSONAL_dos, new { placeholder = "NIT", @class = "form-control col-7 ml-4" })
+                                                @Html.ValidationMessageFor(x => x.telefono_ref_PERSONAL_dos, null, new { @class = "text-danger" })
+                                            </div>
+                                            
+                                            <h4 class="border-bottom mt-1">Profesionales <span class="material-icons in col-1 ">account_balance</span></h4>
+                                            <!--Ref Dos -->
+                                            <div class="row">
+                                                @Html.TextBoxFor(x => x.ref_PERSONAL_UNO, new { placeholder = "Nombre Ref Profesional 1", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.ref_PERSONAL_UNO, null, new { @class = "text-danger" })
+                                                @Html.TextBoxFor(x => x.telefono_ref_PERSONAL_uno, new { placeholder = "NIT", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.telefono_ref_PERSONAL_uno, null, new { @class = "text-danger" })
+
+                                                @Html.TextBoxFor(x => x.ref_PERSONAL_DOS, new { placeholder = "Nombre Ref Profesional 2", @class = "form-control col-7 ml-4 mb-1" })
+                                                @Html.ValidationMessageFor(x => x.ref_PERSONAL_DOS, null, new { @class = "text-danger" })
+                                                @Html.TextBoxFor(x => x.telefono_ref_PERSONAL_dos, new { placeholder = "NIT", @class = "form-control col-7 ml-4 mb-2" })
+                                                @Html.ValidationMessageFor(x => x.telefono_ref_PERSONAL_dos, null, new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--TERMINA CONTENEDOR IZQUIERDO-->
+                                    <!--CONTENEDOR DERECHO-->
+                                    <div class="col-9 ">
+                                        <div class="contenedor1 border-bottom">
+                                            <!--nombres-->
+                                            @Html.TextBoxFor(x => x.nombre, new { placeholder = "Nombres", @class = "form-control col-7 ml-4 mb-3" })
+                                            @Html.ValidationMessageFor(x => x.nombre, null, new { @class = "text-danger" })
+                                            <!--apellidos-->
+                                            @Html.TextBoxFor(x => x.apellido, new { placeholder = "Apellidos", @class = "form-control col-7 ml-4 mb-3" })
+                                            @Html.ValidationMessageFor(x => x.apellido, null, new { @class = "text-danger" })
+                                        </div>
+
+                                        <div class="exp-laboral contenedor2 border-bottom">
+                                            <h3>EXPERIENCIA LABORAL</h3>
+                                            <div class="">
+                                                <!--Exp Laboral-->
+                                                @Html.TextBoxFor(x => x.Cargo_exp, new { placeholder = "Experiencia Laboral", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.Cargo_exp, null, new { @class = "text-danger" })
+
+                                                @Html.TextAreaFor(x => x.Descripcion_exp, new { placeholder = "Descipción", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.Descripcion_exp, null, new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+
+                                        <div class="educacion contenedor3 border-bottom">
+                                            <h3>EDUCACIÓN</h3>
+                                            <div class="">
+                                                <!--EDUACICON-->
+                                                @Html.TextBoxFor(x => x.LugarEducacion, new { placeholder = "Donde estudió?", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.LugarEducacion, null, new { @class = "text-danger" })
+
+                                                @Html.TextAreaFor(x => x.descripcion_educacion, new { placeholder = "Descipción", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.descripcion_educacion, null, new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+
+                                        <div class="cursos contenedor4 border-bottom">
+                                            <h4 class="">CURSOS</h4>
+                                            <p class="text-muted">
+                                                @Html.TextAreaFor(x => x.Curso, new { placeholder = "Curso", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.Curso, null, new { @class = "text-danger" })
+                                                @Html.TextAreaFor(x => x.DescripcionCurso, new { placeholder = "Descipción del curso", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.DescripcionCurso, null, new { @class = "text-danger" })
+                                            </p>
+                                        </div>
+                                        <input type="submit" class="btn btn-success btn-block" value="Guardar Cv">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-footer">
+
+                            </div>
+                        </div>
+                    </div><!--row-->
+                </div>
+            </form>
+        </div>
+    </body>
+}
+</html>
+
+
+

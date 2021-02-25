@@ -8,5 +8,10 @@ namespace AppCvCshap.Models
 {
     public class Contexto: DbContext
     {
+      
+        //Prueba para CV#
+        public DbSet<CV> CVsharp { get; set; }
+        
+        
     }
 }
