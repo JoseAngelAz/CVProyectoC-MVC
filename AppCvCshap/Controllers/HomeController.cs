@@ -121,8 +121,8 @@ namespace AppCvCshap.Controllers
         {
             using (var context = new Contexto())
             {
-                var data = context.CVsharp.ToList();
-                ViewBag.Datos = data;
+                var data = context.CVsharp.FirstOrDefault();
+               
                 return View(data);
             }
         }

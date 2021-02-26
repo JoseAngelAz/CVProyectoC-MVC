@@ -7,7 +7,7 @@ using System.Web;
 namespace AppCvCshap.Models
 {
     public class CV
-    {
+    {   [Key]
         public int idCv { get; set; }
         //datos personales
         
@@ -27,7 +27,7 @@ namespace AppCvCshap.Models
         public string dui { get; set; }
         [Required(ErrorMessage = "Por favor ingrese su NIT")]
         public string nit { get; set; }
-        [Required(ErrorMessage = "Por favor ingrese su Fotografía")]
+        
         public string PaginaWeb { get; set; }
 
         //fotografia de perfil

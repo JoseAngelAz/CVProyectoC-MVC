@@ -316,3 +316,639 @@ C:\Users\A71A5\source\repos\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.Di
 C:\Users\A71A5\source\repos\CVProyectoC-MVC\AppCvCshap\bin\System.Reflection.Metadata.xml
 C:\Users\A71A5\source\repos\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\A71A5\source\repos\CVProyectoC-MVC\AppCvCshap\bin\System.Text.Encodings.Web.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\AppCvCshap.dll.config
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\AppCvCshap.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\AppCvCshap.pdb
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csc.exe
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csc.exe.config
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csc.rsp
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csi.exe
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csi.exe.config
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csi.rsp
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.AppContext.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Console.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\vbc.exe
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\vbc.exe.config
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\vbc.rsp
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\netstandard.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.AppContext.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.Concurrent.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.NonGeneric.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.Specialized.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ComponentModel.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ComponentModel.Primitives.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Console.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Data.Common.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.Contracts.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.Debug.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.Process.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.Tools.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.Tracing.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Drawing.Primitives.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Dynamic.Runtime.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Globalization.Calendars.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Globalization.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Globalization.Extensions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.Compression.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.FileSystem.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.IsolatedStorage.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.Pipes.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Linq.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Linq.Expressions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Linq.Parallel.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Linq.Queryable.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Http.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.NameResolution.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.NetworkInformation.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Ping.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Primitives.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Requests.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Security.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Sockets.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.WebSockets.Client.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.WebSockets.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ObjectModel.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Reflection.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Reflection.Extensions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Reflection.Primitives.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Resources.Reader.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Resources.ResourceManager.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Resources.Writer.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Extensions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Handles.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.InteropServices.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Numerics.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Claims.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Principal.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.SecureString.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.Encoding.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.RegularExpressions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.Overlapped.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.Tasks.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.Thread.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.ThreadPool.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.Timer.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ValueTuple.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.ReaderWriter.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.XDocument.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.XmlDocument.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.XmlSerializer.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.XPath.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\EntityFramework.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\EntityFramework.SqlServer.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Options.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Win32.Registry.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Newtonsoft.Json.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Rotativa.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Buffers.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.Immutable.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ComponentModel.Annotations.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Reflection.Metadata.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.AccessControl.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Principal.Windows.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.Encodings.Web.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Helpers.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Mvc.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Razor.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\EntityFramework.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\EntityFramework.SqlServer.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Options.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Newtonsoft.Json.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Buffers.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.Immutable.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Reflection.Metadata.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.Encodings.Web.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Razor.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Helpers.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Mvc.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.csprojAssemblyReference.cache
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.csproj.CoreCompileInputs.cache
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.csproj.CopyComplete
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.dll
+C:\Users\Jose.Mendez\Desktop\rama angelversion\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.pdb
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\AppCvCshap.dll.config
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\AppCvCshap.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\AppCvCshap.pdb
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csc.exe
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csc.exe.config
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csc.rsp
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csi.exe
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csi.exe.config
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\csi.rsp
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.Managed.Core.targets
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.AppContext.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Collections.Immutable.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Console.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.IO.Compression.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.IO.FileSystem.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.IO.Pipes.AccessControl.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.IO.Pipes.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Reflection.Metadata.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.AccessControl.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Claims.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Security.Principal.Windows.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.ValueTuple.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Xml.XmlDocument.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Xml.XPath.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\vbc.exe
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\vbc.exe.config
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\vbc.rsp
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\VBCSCompiler.exe
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\roslyn\VBCSCompiler.exe.config
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Win32.Primitives.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\netstandard.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.AppContext.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.Concurrent.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.NonGeneric.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.Specialized.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ComponentModel.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ComponentModel.EventBasedAsync.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ComponentModel.Primitives.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ComponentModel.TypeConverter.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Console.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Data.Common.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.Contracts.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.Debug.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.FileVersionInfo.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.Process.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.StackTrace.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.TextWriterTraceListener.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.Tools.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.TraceSource.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.Tracing.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Drawing.Primitives.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Dynamic.Runtime.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Globalization.Calendars.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Globalization.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Globalization.Extensions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.Compression.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.Compression.ZipFile.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.FileSystem.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.FileSystem.DriveInfo.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.FileSystem.Primitives.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.FileSystem.Watcher.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.IsolatedStorage.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.MemoryMappedFiles.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.Pipes.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.IO.UnmanagedMemoryStream.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Linq.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Linq.Expressions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Linq.Parallel.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Linq.Queryable.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Http.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.NameResolution.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.NetworkInformation.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Ping.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Primitives.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Requests.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Security.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.Sockets.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.WebHeaderCollection.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.WebSockets.Client.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Net.WebSockets.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ObjectModel.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Reflection.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Reflection.Extensions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Reflection.Primitives.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Resources.Reader.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Resources.ResourceManager.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Resources.Writer.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.CompilerServices.VisualC.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Extensions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Handles.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.InteropServices.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Numerics.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Serialization.Formatters.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Serialization.Json.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Serialization.Primitives.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.Serialization.Xml.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Claims.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.Algorithms.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.Csp.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.Encoding.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.Primitives.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.X509Certificates.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Principal.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.SecureString.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.Encoding.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.Encoding.Extensions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.RegularExpressions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.Overlapped.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.Tasks.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.Tasks.Parallel.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.Thread.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.ThreadPool.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Threading.Timer.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ValueTuple.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.ReaderWriter.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.XDocument.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.XmlDocument.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.XmlSerializer.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.XPath.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Xml.XPath.XDocument.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\EntityFramework.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\EntityFramework.SqlServer.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Antiforgery.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authentication.Core.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authorization.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Cors.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.DataProtection.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Extensions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Features.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.JsonPatch.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Localization.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Core.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.Language.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Routing.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.WebUtilities.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.CSharp.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.Razor.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.DotNet.PlatformAbstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Caching.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Caching.Memory.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.DependencyInjection.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.DependencyModel.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileProviders.Composite.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Localization.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Localization.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Logging.Abstractions.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.ObjectPool.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Options.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Primitives.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.WebEncoders.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Net.Http.Headers.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Web.Infrastructure.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Win32.Registry.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Newtonsoft.Json.Bson.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Newtonsoft.Json.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Rotativa.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Buffers.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.Immutable.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.ComponentModel.Annotations.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.DiagnosticSource.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Reflection.Metadata.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.CompilerServices.Unsafe.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.AccessControl.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Cryptography.Xml.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Security.Principal.Windows.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.Encoding.CodePages.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.Encodings.Web.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Helpers.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Mvc.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Razor.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.Deployment.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.Razor.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\EntityFramework.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\EntityFramework.SqlServer.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Antiforgery.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authentication.Core.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authorization.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Cors.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.DataProtection.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Extensions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Http.Features.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.JsonPatch.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Localization.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Core.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.Language.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Routing.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.AspNetCore.WebUtilities.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.CSharp.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeAnalysis.Razor.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Caching.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Caching.Memory.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.DependencyInjection.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileProviders.Composite.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Localization.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Localization.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Logging.Abstractions.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.ObjectPool.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Options.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.Primitives.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Extensions.WebEncoders.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.Net.Http.Headers.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Newtonsoft.Json.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Newtonsoft.Json.Bson.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Buffers.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Collections.Immutable.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Diagnostics.DiagnosticSource.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Reflection.Metadata.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Runtime.CompilerServices.Unsafe.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Text.Encodings.Web.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Razor.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.Deployment.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Webpages.Razor.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Helpers.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\System.Web.Mvc.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Razor.resources.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Webpages.resources.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Webpages.Deployment.resources.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Webpages.Razor.resources.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Helpers.resources.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\bin\es\System.Web.Mvc.resources.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.csprojAssemblyReference.cache
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.csproj.CoreCompileInputs.cache
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.csproj.CopyComplete
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.dll
+T:\ANGEL\Vscode  C# proyectos\PROYECTO FINAL CASS\rama angelversion\CVProyectoC-MVC\AppCvCshap\obj\Debug\AppCvCshap.pdb
