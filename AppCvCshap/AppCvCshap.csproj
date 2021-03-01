@@ -454,6 +454,8 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Correcto.cshtml" />
     <Content Include="Views\Home\ShowCV.cshtml" />
+    <Content Include="Views\Home\CV_PDF.cshtml" />
+    <Content Include="Views\Home\ShowCVById.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

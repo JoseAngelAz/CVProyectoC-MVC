@@ -121,8 +121,22 @@ namespace AppCvCshap.Controllers
         {
             using (var context = new Contexto())
             {
-                var data = context.CVsharp.FirstOrDefault();
-               
+                //var data = context.CVsharp.Last();
+                var data = context.CVsharp.ToList();
+                ViewBag.Datos = data;
+
+                return View(data);
+            }
+        }
+        //Conslultar datosBYID
+        public ActionResult ShowCVById(int id)
+        {
+            using (var context = new Contexto())
+            {
+                //var data = context.CVsharp.Last();
+                var data = context.CVsharp.Find(id);
+                ViewBag.Datos = data;
+
                 return View(data);
             }
         }
@@ -147,7 +161,7 @@ namespace AppCvCshap.Controllers
                 ViewBag.lista = lista;
             }
             //hacia donde se envia la vista del PDF
-            return new ViewAsPdf("IndexPDF")
+            return new ViewAsPdf("CV_PDF")
             {
                 PageSize = Rotativa.Options.Size.A4,
                 PageMargins = new Rotativa.Options.Margins(10, 15, 10, 15),
