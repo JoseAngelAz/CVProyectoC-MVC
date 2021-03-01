@@ -139,7 +139,6 @@ namespace AppCvCshap.Controllers
                 //var data = context.CVsharp.Last();
                 var data = context.CVsharp.Find(id);
                 ViewBag.Datos = data;
-
                 return View(data);
             }
         }
@@ -154,12 +153,40 @@ namespace AppCvCshap.Controllers
                 return View();
             }
         }
+        //ELIMINAR CV por ID
+        public ActionResult DeleteCVById(int id)
+        {
+            using (var context = new Contexto())
+            {
+                var data = context.CVsharp.Find(id);
+                context.CVsharp.Remove(data);
+                context.SaveChanges();
+                return View("Index");
+            }
+        }
+        //EXPORTAR COMO PDF por ID
+        public ActionResult ExportarCVPDFById(int id)
+        {
+            using (var context = new Contexto())
+            {
+                var cv = context.CVsharp.Find(id);
+                //se envia a la vista
+                ViewBag.cv = cv;
+            }
+            //hacia donde se envia la vista del PDF
+            return new ViewAsPdf("CV_PDF")
+            {
+                PageSize = Rotativa.Options.Size.A4,
+                PageMargins = new Rotativa.Options.Margins(10, 15, 10, 15),
+                FileName = "CV#.pdf"
+            };
+        }
         //EXPORTAR COMO PDF
-        public ActionResult ExportarCVPDF()
+        public ActionResult ExportarCVPDF(int id)
         {
             using(var context = new Contexto())
             {
-                var lista = context.CVsharp.ToList();
+                var lista = context.CVsharp.Find(id);
                 //se envia a la vista
                 ViewBag.lista = lista;
             }

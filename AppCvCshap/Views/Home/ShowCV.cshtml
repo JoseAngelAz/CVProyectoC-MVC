@@ -10,10 +10,10 @@
     <h1>Listado de alumnos</h1>
 </center>
 <br />
-<!--"Lo que el usuario ve","La accion(controlador)","ControladorDondeEstaLaAccion"-->
+<!--"Lo que el usuario ve","La accion(controlador)","ControladorDondeEstaLaAccion"
 <div class="btn btn-info mb-2">
-@Html.ActionLink("Descargar CV# PDF", "ExportarPDF", "Alumno", new { @class = "btn btn-default fw-bold" })
-</div>
+@Html.ActionLink("Descargar CV# PDF", "ExportarCVPDFById", "Alumno", new { @class = "btn btn-default fw-bold" })
+</div>-->
 <table class="table bg-dark text-white text-center">
     <thead>
         <tr>
@@ -67,7 +67,7 @@
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                @Html.ActionLink("Eliminar", "DeleteCV", "Home", new { id = a.idCv }, new { @class = "btn btn-danger" })
+                                @Html.ActionLink("Eliminar", "DeleteCVById", "Home", new { id = a.idCv }, new { @class = "btn btn-danger" })
                             </div>
                         </div>
                     </div>

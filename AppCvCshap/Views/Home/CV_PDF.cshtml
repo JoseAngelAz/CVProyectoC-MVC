@@ -1,17 +1,197 @@
-﻿
+﻿@using AppCvCshap.Models
+@model AppCvCshap.Models.CV
 @{
+    ViewBag.Title = "ShowCVById";
     Layout = null;
 }
 
+<h2 class="text-center text-info">CV del Usuario @Model.nombre</h2>
 <!DOCTYPE html>
-
-<html>
+<html lang="en">
 <head>
-    <meta name="viewport" content="width=device-width" />
-    <title>CV_PDF</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WORK CV# Curriculum</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <style>
+        .telefonito, .lugar, .mail, .enlace, .in, .social, .tweet, .insta, .punto {
+            color: white;
+        }
+    </style>
 </head>
-<body>
-    <div> 
-    </div>
-</body>
-</html>
+    <body>
+        <div class="mb-5">
+            <form action="COLOCAR METODO" method="POST">
+                <div class="container">
+                    <div class="row">
+                        <!--carta que contiene todo el CV# para ser visualizado-->
+                        <div class="card col-12 shadow-lg bg-light mt-5">
+                            <div class="card-header">
+                                <h2 class="text-center text-info"><strong class="wcv rounded">CV#</strong> del Usuario</h2>
+                            </div>
+                            <div class="card-body">
+                                <div class="row">
+                                    <!--CONTENEDOR IZQUIERDO-->
+                                    <div class="contenedor izUno bg-info col-sm-3 rounded mb-2">
+                                        <!--FOTO DE PERFIL NO EXISTE AUN-->
+                                        <!--contacto-->
+                                        <div class="contacto">
+                                            <h4 class="text-gray text-center border-bottom">CONTACTO</h4>
+                                            <div class="ncelular row mb-2">
+                                                <!--Telefono-->
+                                                <label><span class="material-icons telefonito mr-3 mt-1">contact_phone</span> Teléfono</label>
+                                                <h4 class="text-dark">@Model.telefono</h4>
+                                            </div>
+
+                                            <div class="ncelular row mb-2">
+                                                <!--Dirección-->
+                                                <label><span class="material-icons telefonito mr-3 mt-1">room</span> Dirección</label>
+                                                <h4 class="text-dark">@Model.direccion</h4>
+                                            </div>
+
+                                            <div class="row">
+                                                <!--Email-->
+                                                <label><span class="material-icons telefonito mr-3 mt-1">email</span> Dirección</label>
+                                                <h4 class="text-dark">@Model.email</h4>
+                                            </div>
+                                            <!--Edad-->
+                                            <div class="row">
+                                                <label><span class="material-icons telefonito mr-3 mt-1">hourglass_empty</span> Dirección</label>
+                                                <h4 class="text-dark">@Model.edad</h4>
+                                            </div>
+                                        </div>
+
+                                        <div class="redes">
+                                            <h4 class="text-success border-bottom">Documentos Personales</h4>
+                                            <!--DUI-->
+                                            <div class="row">
+                                                <label><span class="material-icons telefonito mr-3 mt-1">fingerprint</span> DUI</label>
+                                                <h4 class="text-dark">@Model.dui</h4>
+                                            </div>
+                                            <!--NIT-->
+                                            <div class="row">
+                                                <label><span class="material-icons telefonito mr-3 mt-1">credit_card</span> NIT</label>
+                                                <h4 class="text-dark">@Model.nit</h4>
+                                            </div>
+                                            <!--PAGINA WEB-->
+                                            <div class="row">
+                                                <label><span class="material-icons telefonito mr-3 mt-1">public</span> Pagina Web</label>
+                                                <h4 class="text-dark">@Model.PaginaWeb</h4>
+                                            </div>
+                                        </div>
+
+                                        <div class="habilidades">
+                                            <h4 class="text-gray border-bottom">COMPETENCIAS</h4>
+                                            <!--COMPETENCIA PERSONAL-->
+                                            <div class="row">
+                                                <label><span class="material-icons telefonito mr-3 mt-1">accessibility_new</span> Competencias Personales</label>
+                                                <h4 class="text-dark">@Model.competencia</h4>
+                                            </div>
+
+                                            <!--ESPACIO-->
+                                            <div class="row">
+
+
+                                            </div>
+                                            <!--COMPETENCIA PROFESIONAL-->
+                                            <div class="row">
+                                                <label><span class="material-icons telefonito mr-3 mt-1">card_travel</span> Competencias Profesionales</label>
+                                                <h4 class="text-dark">@Model.competenciasProfesionales</h4>
+                                            </div>
+                                        </div>
+
+                                        <div class="referencias">
+                                            <h4 class="border-bottom mb-1">REFERENCIAS</h4>
+
+                                            <h4 class="border-bottom mt-1">Personales <span class="material-icons in col-1">face</span></h4>
+                                            <!--Ref Uno -->
+                                            <div class="row">
+                                                <label>Referencia personal 1</label>
+                                                <h4 class="text-dark">@Model.ref_PERSONAL_UNO</h4>
+                                                <label>Telefono</label>
+                                                <h4 class="text-dark">@Model.telefono_ref_PERSONAL_uno</h4>
+
+                                                <label>Referencia personal 2</label>
+                                                <h4 class="text-dark">@Model.ref_PERSONAL_DOS</h4>
+                                                <label>Telefono</label>
+                                                <h4 class="text-dark">@Model.telefono_ref_PERSONAL_dos</h4>
+                                            </div>
+
+                                            <h4 class="border-bottom mt-1">Profesionales <span class="material-icons in col-1 ">account_balance</span></h4>
+                                            <!--Ref Dos -->
+                                            <div class="row">
+                                                <label>Referencia personal 1</label>
+                                                <h4 class="text-dark">@Model.ref_prof_uno</h4>
+                                                <label>Telefono</label>
+                                                <h4 class="text-dark">@Model.telefono_uno_profesional</h4>
+
+                                                <label>Referencia personal 2</label>
+                                                <h4 class="text-dark">@Model.ref_prof_dos</h4>
+                                                <label>Telefono</label>
+                                                <h4 class="text-dark">@Model.telefono_dos_profesional</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--TERMINA CONTENEDOR IZQUIERDO-->
+                                    <!--CONTENEDOR DERECHO-->
+                                    <div class="col-9 ">
+                                        <div class="contenedor1 border-bottom">
+                                            <!--nombres-->
+                                            <h2>@Model.nombre</h2>
+                                            <!--apellidos-->
+                                            <h2>@Model.apellido</h2>
+                                        </div>
+
+                                        <div class="exp-laboral contenedor2 border-bottom">
+                                            <h3 class="text-info">EXPERIENCIA LABORAL</h3>
+                                            <div class="">
+                                                <!--Exp Laboral-->
+                                                <label>cargo</label>
+                                                <h2>@Model.Cargo_exp</h2>
+                                                <label>Descripcion</label>
+                                                <h2>@Model.Descripcion_exp</h2>
+                                            </div>
+                                        </div>
+
+                                        <div class="educacion contenedor3 border-bottom">
+                                            <h3 class="text-info">EDUCACIÓN</h3>
+                                            <div class="">
+                                                <!--EDUACICON-->
+                                                <label>Nivel</label>
+                                                <h2>@Model.LugarEducacion</h2>
+                                                <label>Lugar</label>
+                                                <h2>@Model.descripcion_educacion</h2>
+                                            </div>
+                                        </div>
+
+                                        <div class="cursos contenedor4 border-bottom">
+                                            <h4 class="text-info">CURSOS</h4>
+                                            <p class="text-muted">
+                                                <label>Curso</label>
+                                                <h2>@Model.Curso</h2>
+                                                <label>Descripcion</label>
+                                                <h2>@Model.DescripcionCurso</h2>
+                                            </p>
+                                        </div>
+                                        <div class="cursos contenedor4 border-bottom">
+                                            <h4 class="">LUGAR DE FORMACION</h4>
+                                            <p class="text-muted">
+                                                <label>Lugar</label>
+                                                <h2>@Model.FormacionTecnica</h2>
+                                                <label>Descripcion</label>
+                                                <h2>@Model.DescripcionFT</h2>
+                                            </p>
+                                        </div>
+                                       <!--LUGAR DEL BOTON DE IMPIRMIR-->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-footer">
+
+                            </div>
+                        </div>
+                    </div><!--/row-->
+                </div>
+            </form>
+        </div>
+    </body>
