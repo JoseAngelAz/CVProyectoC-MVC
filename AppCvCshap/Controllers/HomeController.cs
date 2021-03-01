@@ -104,6 +104,9 @@ namespace AppCvCshap.Controllers
                         data.ref_prof_dos = modelcv.ref_prof_dos;
                         data.telefono_dos_profesional = modelcv.telefono_dos_profesional;
 
+                        //objetivo del CV#
+                        data.objetivoCV = modelcv.objetivoCV;
+
 
                         context.SaveChanges();
                     }

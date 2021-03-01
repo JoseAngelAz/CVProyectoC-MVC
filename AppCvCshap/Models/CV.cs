@@ -76,5 +76,9 @@ namespace AppCvCshap.Models
         public string ref_prof_dos { get; set; }
         [Required(ErrorMessage = "Por favor ingrese el telefono de la referencia dos")]
         public string telefono_dos_profesional { get; set; }
+
+        //objetivo del CV#
+        [Required(ErrorMessage = "Por favor ingrese el objetivo al que va orientado su CV#")]
+        public string objetivoCV { get; set; }
     }
 }

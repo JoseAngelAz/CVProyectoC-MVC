@@ -202,6 +202,13 @@
                                                 @Html.ValidationMessageFor(x => x.DescripcionFT, null, new { @class = "text-danger" })
                                             </p>
                                         </div>
+                                        <div class="cursos contenedor4 border-bottom">
+                                            <h4 class="">OBJETIVO DEL <strong class="wcv rounded">CV#</strong></h4>
+                                            <p class="text-muted text-info">
+                                                @Html.TextBoxFor(x => x.objetivoCV, new { placeholder = "Escriba el objetivo de este CV#", @class = "form-control col-7 ml-4 mb-3" })
+                                                @Html.ValidationMessageFor(x => x.objetivoCV, null, new { @class = "text-danger" })
+                                            </p>
+                                        </div>
                                         <input type="submit" class="btn btn-success btn-block" value="Guardar Cv">
                                     </div>
                                 </div>
