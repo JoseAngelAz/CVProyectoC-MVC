@@ -21,7 +21,8 @@
 </head>
 @using (Html.BeginForm("CreateOrModifyCV", "Home", FormMethod.Post))
 {
- @Html.ValidationSummary()
+    @Html.HiddenFor(x => x.idCv)
+    @Html.ValidationSummary()
     <body>
         <div class="mb-5">
             <form action="COLOCAR METODO" method="POST">
@@ -102,11 +103,11 @@
                                                 @Html.TextAreaFor(x => x.competencia, new { placeholder = "Competencia personal", @class = "form-control col-7 ml-4" })
                                                 @Html.ValidationMessageFor(x => x.competencia, null, new { @class = "text-danger" })
                                             </div>
-                                            
+
                                             <!--ESPACIO-->
                                             <div class="row">
-                                                
-                                              
+
+
                                             </div>
                                             <!--COMPETENCIA PROFESIONAL-->
                                             <div class="row">
@@ -118,7 +119,7 @@
 
                                         <div class="referencias">
                                             <h4 class="border-bottom">REFERENCIAS</h4>
-                                            
+
                                             <h4 class="border-bottom">Personales <span class="material-icons in col-1">face</span></h4>
                                             <!--Ref Uno -->
                                             <div class="row">
@@ -132,7 +133,7 @@
                                                 @Html.TextBoxFor(x => x.telefono_ref_PERSONAL_dos, new { placeholder = "Telefono", @class = "form-control col-7 ml-4" })
                                                 @Html.ValidationMessageFor(x => x.telefono_ref_PERSONAL_dos, null, new { @class = "text-danger" })
                                             </div>
-                                            
+
                                             <h4 class="border-bottom mt-1">Profesionales <span class="material-icons in col-1 ">account_balance</span></h4>
                                             <!--Ref Dos -->
                                             <div class="row">

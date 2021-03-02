@@ -38,13 +38,13 @@
             <td>@a.nombre</td>
             <td>@a.apellido</td>
             <td>@a.telefono</td>
-            <td>@a.dui</td>
+            <td class="text-truncate">@a.dui</td>
             <td @if (a.idCv % 2 == 0) {
-            <td class="table-info text-dark rounded text-center text-uppercase fw-bold">@a.objetivoCV</td>
+            <td class="table-info text-info bg-transparent rounded text-center text-uppercase fw-bold">@a.objetivoCV</td>
  }
         else
         {
-            <td class="table-danger text-danger text-center rounded text-uppercase fw-bold">@a.objetivoCV</td>
+            <td class="table-danger bg-transparent text-danger text-center rounded text-uppercase fw-bold">@a.objetivoCV</td>
 }>
         </td>
 
@@ -84,7 +84,10 @@
             <tr>
                 <td>
                     <center>
-                        <b>No hay resultados para mostrar</b>
+                        <div>
+                            <h2 class="text-info">Quieres crear un CV#?</h2>
+                            @Html.ActionLink("Crear CV#", "CreateOrModifyCV", "Home", new { @class = "btn btn-info" })
+                        </div>
                     </center>
                 </td>
             </tr>

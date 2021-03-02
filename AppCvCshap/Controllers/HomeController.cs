@@ -19,7 +19,7 @@ namespace AppCvCshap.Controllers
             {
                 using (var context = new Contexto())
                 {
-                    var model = context.CVsharp.Where(c => c.idCv == id);
+                    var model = context.CVsharp.Find(id);
                     return View(model);
                 }
             }
@@ -119,6 +119,9 @@ namespace AppCvCshap.Controllers
                 return View(modelcv);
             }
         }
+
+
+
         //Conslultar datos
         public ActionResult ShowCV()
         {
