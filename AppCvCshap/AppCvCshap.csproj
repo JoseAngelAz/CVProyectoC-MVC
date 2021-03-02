@@ -459,6 +459,7 @@
     <Content Include="Views\Home\ShowCV.cshtml" />
     <Content Include="Views\Home\CV_PDF.cshtml" />
     <Content Include="Views\Home\ShowCVById.cshtml" />
+    <Content Include="Views\Home\VistaPdfDos.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

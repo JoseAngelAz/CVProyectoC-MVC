@@ -1,11 +1,11 @@
 ﻿@using AppCvCshap.Models
-@model AppCvCshap.Models.CV
 @{
     ViewBag.Title = "ShowCVById";
-    //creo variable
+    //lista con los datos del cv
+    List<CV> cvsharp = ViewBag.Datos != null ? ViewBag.Datos : new List<CV>();
 }
 
-<h2 class="text-center text-info">CV del Usuario @Model.nombre</h2>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,7 +20,10 @@
     </style>
 </head>
 
-    @Html.ValidationSummary()
+@if (cvsharp.Count() > 0) {
+
+    foreach (var curri in cvsharp) { 
+    
     <body>
         <div class="mb-5">
             <form action="COLOCAR METODO" method="POST">
@@ -42,24 +45,24 @@
                                             <div class="ncelular row mb-2">
                                                 <!--Telefono-->
                                                 <label><span class="material-icons telefonito mr-3 mt-1">contact_phone</span> Teléfono</label>
-                                                <h4 class="text-dark">@Model.telefono</h4>
+                                                <h4 class="text-dark">@curri.telefono</h4>
                                             </div>
 
                                             <div class="ncelular row mb-2">
                                                 <!--Dirección-->
                                                 <label><span class="material-icons telefonito mr-3 mt-1">room</span> Dirección</label>
-                                                <h4 class="text-dark">@Model.direccion</h4>
+                                                <h4 class="text-dark">@curri.direccion</h4>
                                             </div>
 
                                             <div class="row">
                                                 <!--Email-->
                                                 <label><span class="material-icons telefonito mr-3 mt-1">email</span> Dirección</label>
-                                                <h4 class="text-dark">@Model.email</h4>
+                                                <h4 class="text-dark">@curri.email</h4>
                                             </div>
                                             <!--Edad-->
                                             <div class="row">
                                                 <label><span class="material-icons telefonito mr-3 mt-1">hourglass_empty</span> Dirección</label>
-                                                <h4 class="text-dark">@Model.edad</h4>
+                                                <h4 class="text-dark">@curri.edad</h4>
                                             </div>
                                         </div>
 
@@ -68,17 +71,17 @@
                                             <!--DUI-->
                                             <div class="row">
                                                 <label><span class="material-icons telefonito mr-3 mt-1">fingerprint</span> DUI</label>
-                                                <h4 class="text-dark">@Model.dui</h4>
+                                                <h4 class="text-dark">@curri.dui</h4>
                                             </div>
                                             <!--NIT-->
                                             <div class="row">
                                                 <label><span class="material-icons telefonito mr-3 mt-1">credit_card</span> NIT</label>
-                                                <h4 class="text-dark">@Model.nit</h4>
+                                                <h4 class="text-dark">@curri.nit</h4>
                                             </div>
                                             <!--PAGINA WEB-->
                                             <div class="row">
                                                 <label><span class="material-icons telefonito mr-3 mt-1">public</span> Pagina Web</label>
-                                                <h4 class="text-dark">@Model.PaginaWeb</h4>
+                                                <h4 class="text-dark">@curri.PaginaWeb</h4>
                                             </div>
                                         </div>
 
@@ -87,7 +90,7 @@
                                             <!--COMPETENCIA PERSONAL-->
                                             <div class="row">
                                                 <label><span class="material-icons telefonito mr-3 mt-1">accessibility_new</span> Competencias Personales</label>
-                                                <h4 class="text-dark">@Model.competencia</h4>
+                                                <h4 class="text-dark">@curri.competencia</h4>
                                             </div>
 
                                             <!--ESPACIO-->
@@ -98,7 +101,7 @@
                                             <!--COMPETENCIA PROFESIONAL-->
                                             <div class="row">
                                                 <label><span class="material-icons telefonito mr-3 mt-1">card_travel</span> Competencias Profesionales</label>
-                                                <h4 class="text-dark">@Model.competenciasProfesionales</h4>
+                                                <h4 class="text-dark">@curri.competenciasProfesionales</h4>
                                             </div>
                                         </div>
 
@@ -109,28 +112,28 @@
                                             <!--Ref Uno -->
                                             <div class="row">
                                                 <label>Referencia personal 1</label>
-                                                <h4 class="text-dark">@Model.ref_PERSONAL_UNO</h4>
+                                                <h4 class="text-dark">@curri.ref_PERSONAL_UNO</h4>
                                                 <label>Telefono</label>
-                                                <h4 class="text-dark">@Model.telefono_ref_PERSONAL_uno</h4>
+                                                <h4 class="text-dark">@curri.telefono_ref_PERSONAL_uno</h4>
 
                                                 <label>Referencia personal 2</label>
-                                                <h4 class="text-dark">@Model.ref_PERSONAL_DOS</h4>
+                                                <h4 class="text-dark">@curri.ref_PERSONAL_DOS</h4>
                                                 <label>Telefono</label>
-                                                <h4 class="text-dark">@Model.telefono_ref_PERSONAL_dos</h4>
+                                                <h4 class="text-dark">@curri.telefono_ref_PERSONAL_dos</h4>
                                             </div>
 
                                             <h4 class="border-bottom mt-1">Profesionales <span class="material-icons in col-1 ">account_balance</span></h4>
                                             <!--Ref Dos -->
                                             <div class="row">
                                                 <label>Referencia personal 1</label>
-                                                <h4 class="text-dark">@Model.ref_prof_uno</h4>
+                                                <h4 class="text-dark">@curri.ref_prof_uno</h4>
                                                 <label>Telefono</label>
-                                                <h4 class="text-dark">@Model.telefono_uno_profesional</h4>
+                                                <h4 class="text-dark">@curri.telefono_uno_profesional</h4>
 
                                                 <label>Referencia personal 2</label>
-                                                <h4 class="text-dark">@Model.ref_prof_dos</h4>
+                                                <h4 class="text-dark">@curri.ref_prof_dos</h4>
                                                 <label>Telefono</label>
-                                                <h4 class="text-dark">@Model.telefono_dos_profesional</h4>
+                                                <h4 class="text-dark">@curri.telefono_dos_profesional</h4>
                                             </div>
                                         </div>
                                     </div>
@@ -139,9 +142,9 @@
                                     <div class="col-9 ">
                                         <div class="contenedor1 border-bottom">
                                             <!--nombres-->
-                                            <h2>@Model.nombre</h2>
+                                            <h2>@curri.nombre</h2>
                                             <!--apellidos-->
-                                            <h2>@Model.apellido</h2>
+                                            <h2>@curri.apellido</h2>
                                         </div>
 
                                         <div class="exp-laboral contenedor2 border-bottom">
@@ -149,9 +152,9 @@
                                             <div class="">
                                                 <!--Exp Laboral-->
                                                 <label>cargo</label>
-                                                <h2>@Model.Cargo_exp</h2>
+                                                <h2>@curri.Cargo_exp</h2>
                                                 <label>Descripcion</label>
-                                                <h2>@Model.Descripcion_exp</h2>
+                                                <h2>@curri.Descripcion_exp</h2>
                                             </div>
                                         </div>
 
@@ -160,9 +163,9 @@
                                             <div class="">
                                                 <!--EDUACICON-->
                                                 <label>Nivel</label>
-                                                <h2>@Model.LugarEducacion</h2>
+                                                <h2>@curri.LugarEducacion</h2>
                                                 <label>Lugar</label>
-                                                <h2>@Model.descripcion_educacion</h2>
+                                                <h2>@curri.descripcion_educacion</h2>
                                             </div>
                                         </div>
 
@@ -170,22 +173,23 @@
                                             <h4 class="text-info">CURSOS</h4>
                                             <p class="text-muted">
                                                 <label>Curso</label>
-                                                <h2>@Model.Curso</h2>
+                                                <h2>@curri.Curso</h2>
                                                 <label>Descripcion</label>
-                                                <h2>@Model.DescripcionCurso</h2>
+                                                <h2>@curri.DescripcionCurso</h2>
                                             </p>
                                         </div>
                                         <div class="cursos contenedor4 border-bottom">
                                             <h4 class="">LUGAR DE FORMACION</h4>
                                             <p class="text-muted">
                                                 <label>Lugar</label>
-                                                <h2>@Model.FormacionTecnica</h2>
+                                                <h2>@curri.FormacionTecnica</h2>
                                                 <label>Descripcion</label>
-                                                <h2>@Model.DescripcionFT</h2>
+                                                <h2>@curri.DescripcionFT</h2>
                                             </p>
                                         </div>
                                         <div class="mb-2">
-                                            @Html.ActionLink("Descargar CV# PDF", "ExportarCVPDFById", "Home", new { @class = "btn btn-default fw-bold btn-success btn-block" })
+                                            @*@Html.ActionLink("Descargar CV# PDF", "ExportarCVPDFById", "Home", new { id = curri.idCv }, new { @class = "btn btn-default fw-bold btn-success btn-block" })*@
+                                            <a class="btn btn-warning fw-bold" href="@Url.Action("ExportarCVPDFById","Home",new { id = curri.idCv })">EXPORTAR A PDF</a>
                                         </div>
                                     </div>
                                 </div>
@@ -199,5 +203,8 @@
             </form>
         </div>
     </body>
+    
+    }
+}
 
 </html>

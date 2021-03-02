@@ -39,14 +39,14 @@
             <td>@a.apellido</td>
             <td>@a.telefono</td>
             <td class="text-truncate">@a.dui</td>
-            <td @if (a.idCv % 2 == 0) {
+             @if (a.idCv % 2 == 0) {
             <td class="table-info text-info bg-transparent rounded text-center text-uppercase fw-bold">@a.objetivoCV</td>
  }
         else
         {
             <td class="table-danger bg-transparent text-danger text-center rounded text-uppercase fw-bold">@a.objetivoCV</td>
-}>
-        </td>
+        }
+       
 
         <td>@Html.ActionLink("ACTUALIZAR", "CreateOrModifyCV", "Home", new { id = a.idCv }, new { @class = "btn btn-success" })</td>
         <td>
@@ -74,7 +74,10 @@
                 </div>
             </td>
 
-        <td>@Html.ActionLink("Ver CV#", "ShowCVById", "Home", new { id = a.idCv }, new { @class = "btn btn-warning" })</td>
+        <td>
+            @*@Html.ActionLink("Ver CV#", "ShowCVById", "Home", new { id = a.idCv }, new { @class = "btn btn-warning" })*@
+            <a class = "btn btn-warning" href="@Url.Action("ShowCVById","Home",new { id = a.idCv })">content</a>
+        </td>
         </tr>
 
             }
