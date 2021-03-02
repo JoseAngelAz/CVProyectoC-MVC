@@ -6,15 +6,15 @@
     List<CV> lista = ViewBag.Datos != null ? ViewBag.Datos : new List<CV>();
 }
 
-<center>
-    <h1>Listado de alumnos</h1>
+<center class="mt-5">
+    <h1 class="text-primary mt-5">Lista de los <strong class="wcv rounded">CV#</strong></h1>
 </center>
 <br />
 <!--"Lo que el usuario ve","La accion(controlador)","ControladorDondeEstaLaAccion"
 <div class="btn btn-info mb-2">
 @Html.ActionLink("Descargar CV# PDF", "ExportarCVPDFById", "Alumno", new { @class = "btn btn-default fw-bold" })
 </div>-->
-<table class="table bg-dark text-white text-center">
+<table class="table table-bordered border-primary rounded bg-dark text-white text-center">
     <thead>
         <tr>
             <th scope="col">ID</th>
@@ -84,7 +84,7 @@
             <tr>
                 <td>
                     <center>
-                        <div>
+                        <div class="text-center center">
                             <h2 class="text-info">Quieres crear un CV#?</h2>
                             @Html.ActionLink("Crear CV#", "CreateOrModifyCV", "Home", new { @class = "btn btn-info" })
                         </div>

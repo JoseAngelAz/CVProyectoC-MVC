@@ -56,17 +56,15 @@ namespace AppCvCshap.Controllers
                 {
                     using (var context = new Contexto())
                     {
-                        msg = "Correcto";
                         context.CVsharp.Add(modelcv);
                         context.SaveChanges();
                     }
-                    return View(msg);
+                    return View("ShowCV");
                 }
                 else {
                     using (var context = new Contexto())
                     {   //UPDATE
                         var data = context.CVsharp.Where(x => x.idCv == modelcv.idCv).FirstOrDefault();
-                        msg = "Correcto";
                         //datos personales
                         data.nombre = modelcv.nombre;
                         data.apellido = modelcv.apellido;
@@ -106,22 +104,16 @@ namespace AppCvCshap.Controllers
 
                         //objetivo del CV#
                         data.objetivoCV = modelcv.objetivoCV;
-
-
                         context.SaveChanges();
                     }
                 }
                 return View("Correcto");
-
             }
             else
             {
                 return View(modelcv);
             }
         }
-
-
-
         //Conslultar datos
         public ActionResult ShowCV()
         {
