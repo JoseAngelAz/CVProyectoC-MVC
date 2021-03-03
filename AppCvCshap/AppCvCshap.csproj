@@ -433,16 +433,8 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\CompetenciasPersonales.cs" />
-    <Compile Include="Models\CompetenciasProfesionales.cs" />
     <Compile Include="Models\Contexto.cs" />
     <Compile Include="Models\CV.cs" />
-    <Compile Include="Models\DatosPersonales.cs" />
-    <Compile Include="Models\Educacion.cs" />
-    <Compile Include="Models\ExperienciaLaboral.cs" />
-    <Compile Include="Models\FormacionTecnica.cs" />
-    <Compile Include="Models\ReferenciasPersonales.cs" />
-    <Compile Include="Models\ReferenciasProfesionales.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
