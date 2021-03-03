@@ -30,7 +30,6 @@
 
         <body>
             <div class="mb-5">
-                <form action="COLOCAR METODO" method="POST">
                     <div class="container">
                         <div class="row">
                             <!--carta que contiene todo el CV# para ser visualizado-->
@@ -46,7 +45,7 @@
                                             <!--contacto-->
                                             <div class="contacto">
                                                 <h4 class="text-gray text-center border-bottom">CONTACTO</h4>
-                                                
+
                                                 <div class="ncelular row mb-2">
                                                     <!--Telefono-->
                                                     <label><span class="material-icons telefonito mr-3 mt-1">contact_phone</span> Teléfono</label>
@@ -192,10 +191,6 @@
                                                     <h2>@curri.DescripcionFT</h2>
                                                 </p>
                                             </div>
-                                            <div class="mb-2">
-                                                @*@Html.ActionLink("Descargar CV# PDF", "ExportarCVPDFById", "Home", new { id = curri.idCv }, new { @class = "btn btn-default fw-bold btn-success btn-block" })*@
-                                                <a class="btn btn-warning" href="@Url.Action("ExportarCVPDFById","Home",new { id = curri.idCv })">EXPORTAR A PDF</a>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -205,7 +200,6 @@
                             </div>
                         </div><!--/row-->
                     </div>
-                </form>
             </div>
         </body>
 

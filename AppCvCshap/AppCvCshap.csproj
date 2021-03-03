@@ -413,13 +413,17 @@
   <ItemGroup>
     <Content Include="Content\Bootstrap4.css" />
     <Content Include="Content\CVStyle.css" />
+    <Content Include="Content\estiloplantillacv.css" />
+    <Content Include="Content\fontasomeplantillacv.js" />
     <Content Include="Content\modern-business.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="JavaScript\jquery.min.js" />
     <Content Include="Recursos\angelteam.png" />
     <Content Include="Recursos\cv_miniatura.PNG" />
+    <Content Include="Recursos\faviconsharp.PNG" />
     <Content Include="Recursos\kevinteam.png" />
+    <Content Include="Recursos\profile.png" />
     <Content Include="Recursos\taniateam.png" />
     <Content Include="Rotativa\help-wkhtmltoimage.txt" />
     <Content Include="Rotativa\help-wkhtmltopdf.txt" />

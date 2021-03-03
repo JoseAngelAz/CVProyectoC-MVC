@@ -59,7 +59,7 @@ namespace AppCvCshap.Controllers
                         context.CVsharp.Add(modelcv);
                         context.SaveChanges();
                     }
-                    return View("ShowCV");
+                    return View("Correcto");
                 }
                 else {
                     using (var context = new Contexto())
